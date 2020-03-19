@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566351936604",
+    "firebase_url": "https://labapp-2cf4e.firebaseio.com",
+    "project_id": "labapp-2cf4e",
+    "storage_bucket": "labapp-2cf4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566351936604:android:b3ef170175e53991233a99",
+        "android_client_info": {
+          "package_name": "com.tracyogata.labapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566351936604-4behd3vs4r566iu5pk4gqcivon6i1ig7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tracyogata.labapp",
+            "certificate_hash": "eb9b1b05cfa5f66397be24e0169dd1b852cca8d2"
+          }
+        },
+        {
+          "client_id": "566351936604-skb174obbhur0hbrl4700abg5l2fhh5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Fiv0TrRHGvmT6aLOeeURFlBzMF8Ewws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566351936604-skb174obbhur0hbrl4700abg5l2fhh5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
